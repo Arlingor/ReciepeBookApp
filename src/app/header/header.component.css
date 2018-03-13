@@ -1,0 +1,11 @@
+
+#color{
+    color:rgba(204, 24, 24, 0.356);
+}
+.brand{
+    font-size:25px;
+    border:1px solid black;
+    border-radius: 20px;
+    background-color: rgba(155, 76, 76, 0.534);
+    color:rgb(34, 14, 14) !important;
+}
